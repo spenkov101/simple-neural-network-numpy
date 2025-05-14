@@ -1,4 +1,4 @@
-Markdown
+Markdown 
 
 # Simple Neural Network with tanh Activation (NumPy)
 
@@ -27,6 +27,8 @@ def tanh(x, deriv=False):
     if(deriv==True):
         return 1 - np.tanh(x)**2
     return np.tanh(x)
+```markdown
+
 ### 2. Input and Output Data
 The input dataset X consists of four samples, each with three features:
 

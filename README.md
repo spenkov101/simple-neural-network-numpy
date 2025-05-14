@@ -111,7 +111,7 @@ Example Output After Training:
  [0.012...]]
 (Note: The exact output will vary slightly due to random initialization, but it should show values close to 0 for the first, second, and fourth inputs, and close to 1 for the third input).
 
-### Further Exploration
+## Further Exploration
 You can experiment with this basic neural network by:
 
 Changing the number of neurons in the hidden layer (the second dimension in the syn0 initialization).
@@ -119,5 +119,5 @@ Adjusting the number of training iterations.
 Trying different input and output datasets to see if the network can learn other patterns.
 
 
-### Credits and Inspiration
+## Credits and Inspiration
 This project was inspired by the excellent tutorial "A Neural Network in 11 Lines of Python (Part 1)" by iamtrask.
